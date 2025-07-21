@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">MERN Stack Developer | Exploring Generative AI | Full Stack Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="200px" style="border-radius: 50%;" alt="Aryan Kumar Avatar"/>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -39,23 +35,31 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryankumar-dev&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar-dev&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
+- 📧 **Email:** [iaryankumar30july@gmail.com](mailto:iaryankumar30july@gmail.com)
+- 📱 **Phone:** +91-8102524874
+- 💼 **LinkedIn:** [linkedin.com/in/aryankumar-dev](https://www.linkedin.com/in/aryankumar-dev)
+- 🐦 **Twitter/X:** [x.com/aryankumar_dev](https://x.com/aryankumar_dev)
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="mailto:iaryankumar30july@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryankumar-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://x.com/aryankumar_dev">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
